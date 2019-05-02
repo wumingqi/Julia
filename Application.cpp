@@ -73,7 +73,7 @@ void Application::GenerateJulia()
 
 	SendMessage(m_hProcess, PBM_SETRANGE32, 0, ImageWidth);
 	TCHAR buf[64];
-	float halfWidth = ImageWidth / 2.f, halfHeight = ImageHeight / 2;
+	float halfWidth = ImageWidth / 2.f, halfHeight = ImageHeight / 2.f;
 	float ratio = ImageHeight / 3.f;
 	for (INT x = 0; x < ImageWidth; x++)
 	{
