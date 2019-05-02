@@ -4,6 +4,8 @@
   
 ![截图](Julia-2.png) 
 
+![截图](Julia-3.png) 
+
 ## 使用的环境和技术
 
 Visual Studio 2019(VC142)  

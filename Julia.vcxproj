@@ -201,6 +201,7 @@
   <ItemGroup>
     <Image Include="Julia-1.png" />
     <Image Include="Julia-2.png" />
+    <Image Include="Julia-3.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
